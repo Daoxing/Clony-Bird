@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Street Fighter\Assets\Scripts\Entities\Fighter.cs">
+    <Files>
+      <File FileName="..\Street Fighter\Assets\Scripts\Entities\Fighter.cs" Line="93" Column="4" />
+      <File FileName="..\Street Fighter\Assets\BattleController.cs" Line="43" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
